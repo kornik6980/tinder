@@ -4,7 +4,6 @@ A Tinder clone MERN CRUD app project I created to practice web development skill
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Technologies](#technologies)
 - [Installation](#installation)
