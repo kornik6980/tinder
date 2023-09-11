@@ -12,18 +12,6 @@ A Tinder clone MERN CRUD app project I created to practice web development skill
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
-
-You can check out the live demo of the app [here](https://tinder-clone-coral.vercel.app/).
-
-**To use the demo version of the app, simply login using:**
-
-Email: `demo@demo.com`
-
-Password: `demo`
-
-This will create a new temporary demo account with some data injected into it. You can try out the account creation and edition page and its functionalities, but it's disabled, so it's impossible to create or edit your account. This is to prevent you from passing your own data and images to the database. Other functionalities work normally.
-
 ## Features
 
 App includes all of the most important features of tinder like:
